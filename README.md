@@ -37,8 +37,8 @@ This project is a **React** web application that includes features such as pagin
 1. **Clone the repository**:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone (https://github.com/AyushPatel0407/scriptassist-interview)
+   cd scriptassist-interview
 
    ```
 
